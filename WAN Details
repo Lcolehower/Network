@@ -1,0 +1,25 @@
+I created a Wide Area Network (WAN) topology.
+
+
+Created a network topology using Packet Tracer.
+Hierarchical Network Design.
+Connecting Correct cabling.
+Configuring Basic device settings(hostname, console password,exec password, password encryption, SSH, exec Timeout, logging sync, clockrate....)
+Creating VLANs and assignning
+IP Addressing.
+Configuring Inter-VLAN Routing 
+Configuring SVI's 
+Configuring DHCP Server device to provide dynamic IP
+Configuring DNS Server
+Configuring HTTP/ HTTP Web server hosting personal Resume
+Configuring SSH for secure Remote access.
+Configuring OSPF EIGRP redistribution as the routing protocol.
+Configurinh HSRP for full stack reduncancy 
+Configuring GRE Tunneling
+Configuring switchport security
+Configuring ASA Firewall Utilizing Network Address Translation (NAT) and Access-control List (ACLs)
+Test and Verifying Network Communication.
+
+All done and successful. 
+
+this link is an unconfigured file of the lab i created incase you want an access. network description also provided
