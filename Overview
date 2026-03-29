@@ -1,0 +1,26 @@
+ I created a Campus Level topology that follows your traditional three tier architecture.
+
+
+Created a network topology using Packet Tracer.
+Hierarchical Network Design.
+Connecting Correct cabling.
+Configuring Basic device settings(hostname, console password,exec password, password encryption, SSH, exec Timeout, logging sync, clockrate....)
+Creating VLANs and assignning IP Addressing.
+Configuring Inter-VLAN Routing on Layer 3 Switches acting as the IDF
+Configuring SVI's, Trunk ports and Access ports an each access switch
+Configuring DHCP Server device to provide dynamic IP
+Configuring DNS Server
+Configuring HTTP/ HTTPS Web server hosting personal Resume
+Configured Email Server, AAA/ Radious Server, and NTP Server
+Configuring SSH for secure Remote access.
+Configuring OSPF EIGRP redistribution as the routing protocol.
+Configurinh HSRP for full stack reduncancy 
+Configuring GRE Tunneling
+Configuring switchport security
+Used Cisco 2911 Router to act as ASA firewall. This has NATint, and EIGRP - BGP Redistribution
+Configured WLC to allow 2 APs Per floor. 
+Test and Verifying Network Communication.
+
+All done and successful. 
+
+this link is an unconfigured file of the lab i created incase you want an access. network description also provided
