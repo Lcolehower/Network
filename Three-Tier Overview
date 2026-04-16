@@ -17,12 +17,10 @@ Configuring OSPF EIGRP redistribution as the routing protocol.
 Configurinh HSRP for full stack reduncancy 
 Configuring GRE Tunneling
 Configuring switchport security
-Used Cisco 2911 Router to act as ASA firewall. This has NATint, and EIGRP - BGP Redistribution
-Configured WLC to allow 2 APs Per floor. 
+Used Cisco 2911 Router to act as ASA firewall. This has NAT, OSPF-EIGRP Redistribution and EIGRP - BGP Redistribution
 Test and Verifying Network Communication.
 
 All done and successful. 
 
 I have also provided an excel file with the IP Scheme
-
-this link is an unconfigured file of the lab i created incase you want an access. network description also provided
+I will continue to grow this Network in the future with more configurations.
